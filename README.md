@@ -1,4 +1,4 @@
-#RESTful Node.js API
+# RESTful Node.js API
 
 This repository ontains a RESTful Node.js API server using a JSON file which allows the user to look up country names byt heir ISO codes
 
